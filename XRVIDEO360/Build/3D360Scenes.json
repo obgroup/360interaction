@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity-WebXR-Export",
+"productVersion": "2.0",
+"dataUrl": "3D360Scenes.data.unityweb",
+"wasmCodeUrl": "3D360Scenes.wasm.code.unityweb",
+"wasmFrameworkUrl": "3D360Scenes.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
